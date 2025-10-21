@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\albar\albar\bin\Debug\albar.exe.config
+C:\Users\user\Desktop\albar\albar\bin\Debug\albar.exe
+C:\Users\user\Desktop\albar\albar\bin\Debug\albar.pdb
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.Form1.resources
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.Properties.Resources.resources
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.csproj.GenerateResource.cache
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.exe
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.pdb
+C:\Users\user\Desktop\albar\albar\obj\Debug\albar.exe.config
